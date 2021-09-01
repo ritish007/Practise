@@ -1,4 +1,4 @@
-package com.example.practise1
+package com.example.practise1.ui
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -6,7 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.Navigation
-import com.example.practise1.databinding.FragmentLoginBinding
+import com.example.practise1.R
 import com.example.practise1.databinding.FragmentSignupBinding
 
 class SignupFragment : Fragment() {
